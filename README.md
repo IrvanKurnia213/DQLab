@@ -30,35 +30,35 @@
 
 ## Preliminary
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/111)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/111)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRWRQSPR)] Introduction to Data Science with R
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/1)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/1)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1EWKINC)] R Fundamental for Data Science
 
 ## Fundamental
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Data%20Preparation%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/12)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1WHPPSC/)] Data Preparation in Data Science using R
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Data%20Preparation%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/12)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1NQJGHU/)] Data Preparation in Data Science using R
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/15)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FCCTIJ)] Statistics using R for Data Science
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/15)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FITFRT)] Statistics using R for Data Science
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Data%20Visualization%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/2)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTVISNKHPAF/)] Data Visualization in Data Science using R
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Data%20Visualization%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/2)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTVISCTTSTM/)] Data Visualization in Data Science using R
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Fundamental%20Data%20Visualization%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/257)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1BMSIUI/)] Fundamental Data Visualization using R
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Fundamental%20Data%20Visualization%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/257)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1IDDASC/)] Fundamental Data Visualization using R
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🔍](https://academy.dqlab.id/main/package/practice/259)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization with ggplot2 for Everyone
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🔍](https://academy.dqlab.id/main/package/practice/259)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%JMMTAC)] Advanced Data Visualization with ggplot2 for Everyone
 
 ## Applied Data Science
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRLSGBIB/)] Data Science in Finance: Credit Risk Analysis
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRWTJJPP/)] Data Science in Finance: Credit Risk Analysis
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Retail%20Market%20Basket%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMBALMHINQ/)] Data Science in Retail: Market Basket Analysis
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Retail%20Market%20Basket%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMBAGKGERL/)] Data Science in Retail: Market Basket Analysis
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20Customer%20Segmentation)] [[🔍](https://academy.dqlab.id/main/package/practice/7)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTUNNJKU)] Data Science in Marketing: Customer Segmentation
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20Customer%20Segmentation)] [[🔍](https://academy.dqlab.id/main/package/practice/7)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTHNALBT)] Data Science in Marketing: Customer Segmentation
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Dimension%20Reduction)] [[🔍](https://academy.dqlab.id/main/package/practice/89)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPCADRJUIDUE/)] Data Science in Finance: Dimension Reduction
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Dimension%20Reduction)] [[🔍](https://academy.dqlab.id/main/package/practice/89)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPCADRUHBLMK/)] Data Science in Finance: Dimension Reduction
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://academy.dqlab.id/main/package/practice/253)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://academy.dqlab.id/main/package/practice/253)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%QVECDD)] Analisis Data COVID19 di Indonesia
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/A%20Walk%20Into%20Sensory%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1CUOCJI/)] A Walk Into Sensory Science
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/R/Applied%20Data%20Science/A%20Walk%20Into%20Sensory%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1JDUDUH/)] A Walk Into Sensory Science
   
 <br />
     
@@ -66,37 +66,37 @@
 
 ## Preliminary
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Preliminary/Introduction%20to%20Data%20Science%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/162)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BJTJVQ/)] Introduction to Data Science with Python
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Preliminary/Introduction%20to%20Data%20Science%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/162)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1MEIWWD/)] Introduction to Data Science with Python
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/45)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/45)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KKFSGQ)] Python Fundamental for Data Science
 
 ## Fundamental
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/79)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/79)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1FBGIWK)] Data Wrangling Python
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VDKMQM/)] Python for Data Professional Beginner - Part 1
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VDIUHO/)] Python for Data Professional Beginner - Part 2
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1ATQPFQ/)] Python for Data Professional Beginner - Part 3
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OERWOT/)] Data Visualization with Python Matplotlib for Beginner - Part 1
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1VCALHV/)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJMCJ/)] Exploratory Data Analysis with Python for Beginner
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1DATQPT/)] Exploratory Data Analysis with Python for Beginner
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL/)] Data Visualization with Python Matplotlib for Beginner - Part 2
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KGRFBE/)] Data Visualization with Python Matplotlib for Beginner - Part 2
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Quality%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AUUCMW/)] Data Quality with Python for Beginner
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Quality%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2TDTPPI/)] Data Quality with Python for Beginner
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/)] Machine Learning With Python for Beginner
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2RVPULE/)] Machine Learning With Python for Beginner
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/)] Data Manipulation with Pandas - Part 1
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KSUTCW/)] Data Manipulation with Pandas - Part 1
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/)] Data Manipulation with Pandas - Part 2
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FLMOAB/)] Data Manipulation with Pandas - Part 2
 
 ## Applied Data Science
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2OKUTLA/)] Data Analyst Project: Business Decision Research
 
 <br />
 
@@ -104,17 +104,17 @@
 
 ## Preliminary
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/91)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/91)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1JCEIQQ)] Fundamental SQL with SELECT Statement
 
 ## Fundamental
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/213)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/213)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1GQRQTE/)] Fundamental SQL Using SELECT Statement
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY)] [[🔍](https://academy.dqlab.id/main/package/practice/171)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2GFGROP/)] Fundamental SQL Using FUNCTION and GROUP BY
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY)] [[🔍](https://academy.dqlab.id/main/package/practice/171)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2RUHEMI/)] Fundamental SQL Using FUNCTION and GROUP BY
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)] [[🔍](https://academy.dqlab.id/main/package/practice/244)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NGUHHK/)] Fundamental SQL Using INNER JOIN and UNION
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)] [[🔍](https://academy.dqlab.id/main/package/practice/244)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2TORKCD/)] Fundamental SQL Using INNER JOIN and UNION
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://academy.dqlab.id/main/package/practice/291)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3PDLJDJ/)] Fundamental SQL Group By and Having
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://academy.dqlab.id/main/package/practice/291)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3JMWDAR/)] Fundamental SQL Group By and Having
 
 <br />
 
@@ -156,51 +156,51 @@
 
 ![Career](README/Career.jpg)
 
-## [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] Data Analyst Career Track (Python) 
+## [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCFDSTFO/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] Data Analyst Career Track (Python) 
 
 ### Memahami Bahasa Pemrograman Fundamental
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VDKMQM/)] Python for Data Professional Beginner - Part 1
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1VDIUHO/)] Python for Data Professional Beginner - Part 2
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1ATQPFQ/)] Python for Data Professional Beginner - Part 3
 
 ### Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/213)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/213)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1GQRQTE/)] Fundamental SQL Using SELECT Statement
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY)] [[🔍](https://academy.dqlab.id/main/package/practice/171)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2GFGROP/)] Fundamental SQL Using FUNCTION and GROUP BY
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY)] [[🔍](https://academy.dqlab.id/main/package/practice/171)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2RUHEMI/)] Fundamental SQL Using FUNCTION and GROUP BY
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)] [[🔍](https://academy.dqlab.id/main/package/practice/244)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NGUHHK/)] Fundamental SQL Using INNER JOIN and UNION
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)] [[🔍](https://academy.dqlab.id/main/package/practice/244)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2TORKCD/)] Fundamental SQL Using INNER JOIN and UNION
 
 ### Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJMCJ/)] Exploratory Data Analysis with Python for Beginner
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1DATQPT/)] Exploratory Data Analysis with Python for Beginner
 
 ### Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/)] Data Manipulation with Pandas - Part 1
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KSUTCW/)] Data Manipulation with Pandas - Part 1
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/)] Data Manipulation with Pandas - Part 2
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FLMOAB/)] Data Manipulation with Pandas - Part 2
 
 ### Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OERWOT/)] Data Visualization with Python Matplotlib for Beginner - Part 1
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1VCALHV/)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL/)] Data Visualization with Python Matplotlib for Beginner - Part 2
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KGRFBE/)] Data Visualization with Python Matplotlib for Beginner - Part 2
 
 ### Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/)] Machine Learning With Python for Beginner
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2RVPULE/)] Machine Learning With Python for Beginner
 
 ### Melakukan Investigasi dan Mendeteksi Anomali pada Data
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Quality%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AUUCMW/)] Data Quality with Python for Beginner
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Quality%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2TDTPPI/)] Data Quality with Python for Beginner
 
 ### Data Analyst Project: Business Decision Research
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2OKUTLA/)] Data Analyst Project: Business Decision Research
 
 <br />
 
