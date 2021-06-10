@@ -90,35 +90,13 @@
 
 - [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/)] Machine Learning With Python for Beginner
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/177)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC)] Fundamental Data Visualization with Python
-
 - [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/)] Data Manipulation with Pandas - Part 1
 
 - [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/)] Data Manipulation with Pandas - Part 2
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Statistic%20using%20Python%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/288)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20ELVIKP/)] Statistic using Python for Data Science
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Statistic%20using%20Python%20for%20Data%20Science%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/290)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20FKRWOF/)] Statistic using Python for Data Science - Part 2
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20using%20Plotnine)] [[🔍](https://academy.dqlab.id/main/package/practice/295)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9FAWBWF/)] Data Visualization using Plotnine
-
 ## Applied Data Science
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🔍](https://academy.dqlab.id/main/package/practice/179)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing)] [[🔍](https://academy.dqlab.id/main/package/practice/247)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning)] [[🔍](https://academy.dqlab.id/main/package/practice/249)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20Project%20Analisis%20Data%20COVID19%20di%20Dunia%20%26%20ASEAN)] [[🔍](https://academy.dqlab.id/main/package/practice/260)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BAIQSQ/)] Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
-
 - [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Eksplorasi%20dan%20Analisis%20Data%20COVID-19%20Indonesia%20using%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/287)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABACWP1OSMEUO/)] Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/293)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1VGTGPJ/)] Data Science in Marketing : Customer Segmentation with Python
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python%20part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/294)] [[📃](ttps://academy.dqlab.id/certificate/pdf/DQLABDSCS1TNUNDC/)] Data Science in Marketing : Customer Segmentation with Python part 2
 
 <br />
 
@@ -149,26 +127,12 @@
 ![R](README/6.png)
 
 ## List of Projects
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/R/Project%20Machine%20Learning%20for%20Retail%20with%20R%20Product%20Packaging)] [[🔍](https://academy.dqlab.id/main/package/project/16)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJCTGMBDEV/)] Project Machine Learning for Retail with R: Product Packaging
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Performa%20Cabang)] [[🔍](https://academy.dqlab.id/main/package/project/215)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20BWNISN)] Project Data Analysis for Finance: Performa Cabang
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Proses%20Investasi%20Investor)] [[🔍](https://academy.dqlab.id/main/package/project/245)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC9BNWJUF/)] Project Data Analysis for Finance: Proses Investasi Investor
   
 <br />
     
 ![Python](README/5.png)
 
 ## List of Projects
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/Python/Data%20Science%20Challenge%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/project/158)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC2JCPTWE/)] Data Science Challenge with Python
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/Python/Data%20Engineer%20Challenge%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/project/170)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3FKRGTH/)] Data Engineer Challenge with Python
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System)] [[🔍](https://academy.dqlab.id/main/package/project/212)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HJDJDN/)] Project Machine Learning with Python: Building Recommender System
-
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System%20with%20Similarity%20Function)] [[🔍](https://academy.dqlab.id/main/package/project/214)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC6RDCMTH)] Project Machine Learning with Python: Building Recommender System with Similarity Function
 
 <br />
 
@@ -315,4 +279,3 @@
 ![Poster](README/Poster.png)
 
 Yuk belajar data science bersama DQLab dengan daftarkan diri kamu dengan signup di [dqlab.id](dqlab.id).  
-Dapatkan potongan 10% dengan menggunakan kode referral "ARIS1615" atau klik [tautan ini](https://dqlab.id/signup?referralCode=ARIS1615) !
