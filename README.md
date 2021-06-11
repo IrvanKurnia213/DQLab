@@ -140,15 +140,15 @@
 
 ## List of Projects
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Data%20Engineer%20Challenge%20with%20SQL)] [[🔍](https://academy.dqlab.id/main/package/project/99)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSKCOKDK/)] Data Engineer Challenge with SQL
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Data%20Engineer%20Challenge%20with%20SQL)] [[🔍](https://academy.dqlab.id/main/package/project/99)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSBEVOBB/)] Data Engineer Challenge with SQL
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20Retail%20Sales%20Performance%20Report)] [[🔍](https://academy.dqlab.id/main/package/project/182)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC4RTPCTH/)] Project Data Analysis for Retail: Sales Performance Report
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20Retail%20Sales%20Performance%20Report)] [[🔍](https://academy.dqlab.id/main/package/project/182)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC4VVFJLJ/)] Project Data Analysis for Retail: Sales Performance Report
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report)] [[🔍](https://academy.dqlab.id/main/package/project/246)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report)] [[🔍](https://academy.dqlab.id/main/package/project/246)] [[📃](https://academy.dqlab.id/certificate/pdf/)] Project Data Analysis for B2B Retail: Customer Analytics Report
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Data%20Analysis%20for%20E-Commerce%20Challenge)] [[🔍](https://academy.dqlab.id/main/package/project/261)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NBEATA/)] Data Analysis for E-Commerce Challenge
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Data%20Analysis%20for%20E-Commerce%20Challenge)] [[🔍](https://academy.dqlab.id/main/package/project/261)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2BIBGVS/)] Data Analysis for E-Commerce Challenge
 
-- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Project%20Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://academy.dqlab.id/main/package/project/292)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2DHTHGF/)] Project: Fundamental SQL Group By and Having
+- [[📂](https://github.com/IrvanKurnia213/DQLab/tree/master/Project/SQL/Project%20Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://academy.dqlab.id/main/package/project/292)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2UAHLNA/)] Project: Fundamental SQL Group By and Having
 
 <br />
 
